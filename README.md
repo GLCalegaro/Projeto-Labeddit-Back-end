@@ -7,9 +7,9 @@ A API foi construida com o objetivo de gerenciar as informações da Base de Dad
 
 * 💻 Acesse aqui o deploy: [Render](https://projeto-labeddit-back-end-dgds.onrender.com).
 
-* 🔗 Link Repositório [Front-end](https://github.com/GLCalegaro/Projeto-Labeddit-Front-end).
+* 🔗 Link do Repositório [Front-end](https://github.com/GLCalegaro/Projeto-Labeddit-Front-end).
 
-* 🔗 Link API [Postman]().
+* 🔗 Link API [Postman](https://documenter.getpostman.com/view/24465148/2s93RNzayk).
 
 ## Descrição do projeto:
 Para a API foram modeladas 5 entidades: USERS(usuários), POSTS(publicação), COMMENTS(comentários), LIKES_DISLIKES_POSTS(likes e dislikes publicações), LIKES_DISLIKES_COMMENTS(likes e dislikes comentários).
